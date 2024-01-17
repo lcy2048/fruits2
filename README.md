@@ -1,4 +1,4 @@
 {
     "version":0,
-    "update":"https://test.game-xev.info/4a20631e26d844d8a1dd385c3911dd8e/check"
+    "update":"https://fh510.game-xev.info/6d844d8a1dd34a20631e285c3911dd8e/check"
 }
